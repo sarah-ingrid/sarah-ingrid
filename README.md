@@ -46,27 +46,6 @@ Atualmente focando em **C# e desenvolvimento de interfaces gráficas** com Windo
 <br/>
 <br/>
 
-Popular Repositories
-<table>
-    
-  <tr>
-    <td>
-      <a href="https://github.com/saroka11/Calculadora-Simples">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saroka11&repo=Calculadora-Simples&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/saroka11/CifraDeCesar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saroka11&repo=CifraDeCesar&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/saroka11/APS_CRIPTOGRAFIA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saroka11&repo=APS_CRIPTOGRAFIA&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### 📊 Atividades
 
