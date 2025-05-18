@@ -4,7 +4,8 @@ Me chamo **Sarah Ingrid**, tenho 26 anos e sou estudante de Ciência da Computa�
 <br/>
 <br/>
 
-Atualmente focando em **C# e desenvolvimento de interfaces gráficas** com Windows Forms, criando projetos práticos para aprender na prática
+💡Meu objetivo ao estudar tecnologia é criar soluções que impactem positivamente a vida das pessoas. <br/>
+Atualmente focando em **C# e banco de dados**, desenvolvendo projetos práticos para aplicar o aprendizado.
 
 ---
 
@@ -53,14 +54,14 @@ Atualmente focando em **C# e desenvolvimento de interfaces gráficas** com Windo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=saroka11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroka11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
