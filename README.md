@@ -1,15 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71185&width=435&lines=Ol%C3%A1!+Bem-Vindo(a)+ao+meu+perfil+%F0%9F%98%81" alt="Typing SVG" /></a>
 
-Me chamo **Sarah Ingrid**, tenho 26 anos e sou estudante de Ciência da Computação no Centro Universitário Carioca. <br/> Estou focada em me tornar uma Desenvolvedora Full Stack e ingressar na área de tecnologia! 
+Me chamo **Sarah Ingrid**, tenho 26 anos e sou estudante de Ciência da Computação. <br/> 
+Estou em constante aprendizado para atuar de forma versátil na área de tecnologia! 
 <br/>
 <br/>
 
 💡Meu objetivo ao estudar tecnologia é criar soluções que impactem positivamente a vida das pessoas. <br/>
-Atualmente focando em **C# e banco de dados**, desenvolvendo projetos práticos para aplicar o aprendizado.
+Atualmente focando em **C#, banco de dados e análise de dados com Python**, desenvolvendo projetos práticos para aplicar o aprendizado.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias 
+<br/>
 
 <img 
     align="left" 
@@ -29,12 +31,40 @@ Atualmente focando em **C# e banco de dados**, desenvolvendo projetos práticos 
 />
 <img 
     align="left" 
+    alt="python" 
+    title="python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+<br/> <br/>
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="powerbi" 
+    title="powerbi"
+    width="20px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
+/>
+<br/> <br/>
+
 <img 
     align="left" 
     alt="GIT" 
@@ -42,6 +72,15 @@ Atualmente focando em **C# e banco de dados**, desenvolvendo projetos práticos 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="visualstudio" 
+    title="visualstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
 
 <br/>
