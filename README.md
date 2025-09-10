@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71185&width=435&lines=Ol%C3%A1!+Bem-Vindo(a)+ao+meu+perfil+%F0%9F%98%81" alt="Typing SVG" /></a>
 
-Me chamo **Sarah Ingrid**, tenho 26 anos e sou estudante de Ciência da Computação. <br/> 
+Me chamo **Sarah Ingrid**, tenho 27 anos e sou estudante de Ciência da Computação. <br/> 
 Estou em constante aprendizado para atuar de forma versátil na área de tecnologia! 
 <br/>
 <br/>
@@ -27,7 +27,7 @@ Atualmente focando em **C#, banco de dados e análise de dados com Python**, des
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -37,13 +37,33 @@ Atualmente focando em **C#, banco de dados e análise de dados com Python**, des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+<br/> <br/>
+
 <img 
     align="left" 
-    alt="SQL" 
+    alt="SQLServer" 
     title="SQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="SQLserver" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
 <br/> <br/>
 
@@ -76,11 +96,38 @@ Atualmente focando em **C#, banco de dados e análise de dados com Python**, des
 
 <img 
     align="left" 
+    alt="angular" 
+    title="GIT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="visualstudio" 
     title="visualstudio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="visualstudioCode" 
+    title="visualstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="azureDevOps" 
+    title="visualstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
 />
 
 <br/>
